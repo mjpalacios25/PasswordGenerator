@@ -26,7 +26,7 @@ Direct link to site:
 https://mjpalacios25.github.io/password-generator/ 
 
 ## Image of Website
-![Alt text](/mjpalacios25/password-generator/Screen_Shot_PwGenerator.png?raw=true "Screen Shot of Password Generator")
+![imgage](https://user-images.githubusercontent.com/52770466/69436869-3818ab00-0d10-11ea-9476-dc0def5aa56e.png)
 
 
 
