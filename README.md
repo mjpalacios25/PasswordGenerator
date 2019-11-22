@@ -1,4 +1,3 @@
-### password-generator
 ### Password Generator 
 ### by Moses Palacios
 
